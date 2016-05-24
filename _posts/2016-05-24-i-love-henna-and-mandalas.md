@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I love henna and mandalas
-datePublished: '2016-05-24T15:09:08.313Z'
-dateModified: '2016-05-24T15:08:23.062Z'
-authors: []
-publisher: null
+datePublished: '2016-05-24T15:13:30.767Z'
+dateModified: '2016-05-24T15:09:15.111Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-05-24-i-love-henna-and-mandalas.md
+authors: []
+publisher: null
+starred: false
 url: i-love-henna-and-mandalas/index.html
 _type: Article
 
